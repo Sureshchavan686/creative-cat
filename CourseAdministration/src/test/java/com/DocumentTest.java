@@ -58,5 +58,8 @@ public class DocumentTest {
 		  System.out.println(view.getText()); 
 		  System.out.println("hello output");
 		 
+		
+		  
+		  
 	  }
 }
